@@ -1,11 +1,5 @@
 { 
     "version": 2,
-    "builts": [
-        { 
-            "source": "/Token.js",
-            "use": "@vercel/node" 
-        }
-                ] ,
     "rewrites": [
         { 
             "source": "/(.*)",
